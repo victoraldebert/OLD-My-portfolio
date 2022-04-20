@@ -48,6 +48,15 @@ sr.reveal('.btn-secondary', {
     duration: 2750
 });
 
+sr.reveal('.btn-secondary-two', {
+    origin: 'bottom',
+    distance: '30px',
+    reset: true,
+
+    duration: 3000
+});
+
+
 
 sr.reveal('.navbar-brand', {
     origin: 'left',

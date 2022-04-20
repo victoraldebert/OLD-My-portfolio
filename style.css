@@ -80,6 +80,7 @@ body {
   
   h2{
     color: #02ffbb;
+    margin-bottom: 1.5rem;
   }
   
   .btn.btn-secondary{
@@ -87,7 +88,14 @@ body {
     border: none;
     border-radius: 40px;
     color: black;
-  
+
+  }
+    .btn-secondary-two{
+    background-color: #02ffbb;
+    border: none;
+    border-radius: 40px;
+    color: black;
+    margin-left: 20rem;
   }
   
   .float-end {
@@ -95,6 +103,10 @@ body {
     border-radius: 30px;
     height: 50px;
     color: black;
+    
+  }
+  p {
+      margin-bottom: 1rem;
   }
   
   /* RESPONSIVE CSS
