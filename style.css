@@ -142,9 +142,10 @@ body {
       width: 100%;
     }
   }
-  
   /*test*/
   
   
-  
+.lead {
+  padding-bottom: 1.5rem;
+}
   
